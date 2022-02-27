@@ -112,6 +112,6 @@ E:\asp.net\BookStore\BookStore\bin\Debug\netcoreapp3.1\libman.json
 E:\asp.net\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 E:\asp.net\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
 E:\asp.net\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Book\Details.cshtml.g.cs
-E:\asp.net\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Book\Edit.cshtml.g.cs
 E:\asp.net\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Book\Delete.cshtml.g.cs
 E:\asp.net\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Book\Create.cshtml.g.cs
+E:\asp.net\BookStore\BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Book\Edit.cshtml.g.cs
